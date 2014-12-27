@@ -34,7 +34,7 @@
 	},
 	"repositories" : [{
 			"type" : "git",
-			"url" : "https://github.com/pkerspe/yii2-simple-cms.git",
+			"url" : "https://github.com/markmarco16/yii2-simple-cms.git",
 			"name" : "github repo"
 		}
 	]
